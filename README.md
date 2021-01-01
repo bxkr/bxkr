@@ -1,2 +1,1 @@
-# ***~~idk~~***
-### Hi there!👋
+[![](https://i.gifer.com/Xysd.gif)](https://bxkr.ru)
