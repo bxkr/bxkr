@@ -1,0 +1,13 @@
+## Skill tracker (sorted by how much learned)
+### Languages
+- Python (bots, flask, scripts)
+- TypeScript (angular, svelte)
+- Kotlin (android, ktor)
+- JS-HTML-CSS (angular, pure web)
+- SQL (postgres, sqlite)
+- C++ (opengl)
+- C# (unity)
+- Java (android)
+- Dart (flutter)
+- Pascal (?)
+- Bash (scripts)
